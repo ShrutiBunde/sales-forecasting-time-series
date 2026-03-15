@@ -117,20 +117,35 @@ An interactive dashboard was built using Streamlit where users can:
 ### Project Structure
 
 sales-forecasting-project
+
 │
+
 ├── data
+
 │   └── train.csv
+
 │
+
 ├── notebooks
+
 │   └── sales_forecasting_analysis.ipynb
+
 │
+
 ├── app
+
 │   └── streamlit_app.py
+
 │
+
 ├── outputs
+
 │   └── future_30_day_sales_forecast.csv
+
 │
+
 ├── requirements.txt
+
 └── README.md
 
 ---
